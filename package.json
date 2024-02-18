@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "test": "github:samgholipoor/test"
-  }
+  "license": "ISC"
 }
